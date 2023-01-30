@@ -1,2 +1,5 @@
 # 100-days-of-code-python
-A compendium of my 100 days of python programming challenge
+
+This is a compilation of my 100-day Python programming challenge
+
+### Day 1: band name generator
