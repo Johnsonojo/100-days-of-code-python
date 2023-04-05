@@ -15,3 +15,5 @@ This is a compilation of my 100-day Python programming challenge
 ### Day 6: Navigate a robot through any maze (to revisit after day 15)
 
 ### Day 7: Hangman
+
+### Day 8: Caesar Cipher
