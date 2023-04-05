@@ -1,3 +1,4 @@
+import os
 import random
 
 from hangman_art import logo, stages
@@ -20,6 +21,9 @@ def hangman():
 
     while not end_of_game:
         user_guessed = input("Guess a letter: ").lower()
+
+        # Clearing the Screen
+        os.system('cls')
         if user_guessed == "":
             print("You entered an empty character.")
             lives -= 1
