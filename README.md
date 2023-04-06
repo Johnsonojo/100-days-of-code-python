@@ -17,3 +17,5 @@ This is a compilation of my 100-day Python programming challenge
 ### Day 7: Hangman
 
 ### Day 8: Caesar Cipher
+
+### Day 9: Blind Auction
