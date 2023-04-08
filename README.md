@@ -19,3 +19,5 @@ This is a compilation of my 100-day Python programming challenge
 ### Day 8: Caesar Cipher
 
 ### Day 9: Blind Auction
+
+### Day 10: Calculator
