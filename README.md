@@ -25,3 +25,5 @@ This is a compilation of my 100-day Python programming challenge
 ### Day 11: Blackjack
 
 ### Day 12: Number Guessing Game
+
+### Day 13: Debugging
