@@ -27,3 +27,5 @@ This is a compilation of my 100-day Python programming challenge
 ### Day 12: Number Guessing Game
 
 ### Day 13: Debugging
+
+### Day 14: Higher Lower Game
